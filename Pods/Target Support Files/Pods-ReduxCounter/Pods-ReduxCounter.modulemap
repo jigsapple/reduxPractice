@@ -1,0 +1,6 @@
+framework module Pods_ReduxCounter {
+  umbrella header "Pods-ReduxCounter-umbrella.h"
+
+  export *
+  module * { export * }
+}
